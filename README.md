@@ -1,2 +1,0 @@
-# MemoryApp
-Created with CodeSandbox
